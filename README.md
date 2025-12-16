@@ -70,3 +70,5 @@
   - **Publishing:** Published the report to the Power BI Service.
 - **Outcome:**  
   Delivered a polished, functional report ready for stakeholder use.
+  <img width="736" height="431" alt="Quantity" src="https://github.com/user-attachments/assets/ef4a2508-498b-4358-8e19-75bbc15d7ba2" />
+
